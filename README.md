@@ -1,4 +1,4 @@
-# Analisador-de-Logs-de-Servidor-e-Monitor-de-Segurança
+# server-log-analyzer
 
 Descrição do Projeto
 
